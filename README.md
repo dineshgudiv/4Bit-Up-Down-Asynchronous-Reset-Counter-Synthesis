@@ -68,6 +68,7 @@ used.
 #### Area report:
 
 #### Power Report:
+![Screenshot 2024-11-17 080831](https://github.com/user-attachments/assets/c54c021d-a9d4-4047-a8f8-c27f6f84815a)
 
 #### Timing Report: 
 
