@@ -47,6 +47,7 @@ iv → Sets Clock Uncertainty to 10ps.
 v, vi → Sets the maximum limit for I/O port delay to 1ps.
 
 ### Step 3 : Performing Synthesis
+![Screenshot 2024-11-17 081301](https://github.com/user-attachments/assets/811d35ea-ede6-409e-9efd-cfd898eaa91c)
 
 The Liberty files are present in the library path,
 
@@ -64,6 +65,7 @@ used.
 • Genus Script file with .tcl file Extension commands are executed one by one to synthesize the netlist.
 
 #### Synthesis RTL Schematic :
+![Screenshot 2024-11-17 080831](https://github.com/user-attachments/assets/26b6d6a3-b380-4dee-880d-e33e51d538f6)
 
 #### Area report:
 
